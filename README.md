@@ -18,6 +18,8 @@
 
 The purpose of the existing project is to prove that computer vision classifier distinguishes different classes by looking at a focus region of the image. Please refer to the project log to see development brief. During development, some methods might be proven unhelpful and therefore discarded, following by new methods. Time period for log update is set at once/week.
 
+The problem is a binary classification problem between two Colorectal Caner CT images ---- MSI and MSS.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
