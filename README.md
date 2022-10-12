@@ -26,6 +26,8 @@ The problem is a binary classification problem between two Colorectal Caner CT i
 <!-- DEVELOPMENT LOG -->
 ## Development Log
 
+Log 10-10: https://docs.google.com/document/d/1iKMrvl5KrtYIGnY90_0bYFETyqpMQdvXX2ZUglSHJU4/edit?usp=sharing
+
 Log 10-3: https://docs.google.com/document/d/1OU6-Mwi0gxG4Do8cRMwLeqEf8AWsH87QDH3hJIuVCzA/edit
 
 Log 9-26: https://docs.google.com/document/d/1UAvNGfAJrl-vxfuQTQdtqPCOC9SyZgh6iGNOGinE0ZY/edit?usp=sharing
